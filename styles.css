@@ -6,12 +6,7 @@
   }
   
   body {
-    background-image: linear-gradient(
-      43deg,
-      #4158d0 0%,
-      #c450c0 46%,
-      #ffcc70 100%
-    );
+    background-image: url(imagens/vAFBqck.jpg);
     height: 100vh;
     display: flex;
     align-items: center;
